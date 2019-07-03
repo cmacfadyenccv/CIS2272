@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"JavaDocExample","l":"getAge()"},{"p":"<Unnamed>","c":"JavaDocExample","l":"getName()"},{"p":"<Unnamed>","c":"JavaDocExample","l":"JavaDocExample()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"JavaDocExample","l":"setAge(int)"},{"p":"<Unnamed>","c":"JavaDocExample","l":"setName(String)","url":"setName(java.lang.String)"}]
