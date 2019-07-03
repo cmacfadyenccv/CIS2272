@@ -7,7 +7,7 @@
  */
 public class JavaDocExample {
 
-	//Intance variables
+	//Instance variables
 	private int age;
 	private String name;
 	
