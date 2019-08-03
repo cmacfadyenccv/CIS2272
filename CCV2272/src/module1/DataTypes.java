@@ -2,7 +2,7 @@
  * Review of data types from an introductory course in Java, e.g. CIS2271
  * Introductio to some new types
  * 
- * @author charlesmacfadyen
+ * @author C MacFadyen
  */
 
 package module1;
