@@ -61,7 +61,7 @@ public class DataTypes {
 		String s = new String("Strings are sequences of characters");
 		String easyWay = "This is a shortcut notation for the line above";
 
-		//CCVstudent stuedent = new CCVstudent(); 	//we would need to write a class here
+		//CCVstudent student = new CCVstudent(); 	//we would need to write a class here
 	}
 
 
